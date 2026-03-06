@@ -1,0 +1,16 @@
+
+body {
+    margin: 0;
+    height: 100vh; 
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+}
+
+/* 赤い円の設定 */
+.circle {
+    width: 200px; 
+    height: 200px; 
+    background-color: red; 
+    border-radius: 50%; 
+}
